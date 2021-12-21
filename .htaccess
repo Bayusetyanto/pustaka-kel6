@@ -1,6 +1,6 @@
 <Ifmodule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /12201082_sebastian
+RewriteBase /pustaka-booking-kel6
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
